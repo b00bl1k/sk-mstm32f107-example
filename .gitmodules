@@ -1,0 +1,6 @@
+[submodule "3rdparty/libopencm3"]
+	path = 3rdparty/libopencm3
+	url = https://github.com/libopencm3/libopencm3
+[submodule "3rdparty/lwip"]
+	path = 3rdparty/lwip
+	url = http://git.savannah.gnu.org/r/lwip.git
